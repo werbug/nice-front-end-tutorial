@@ -1,0 +1,31 @@
+## 基础篇
+
+- [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)       
+- [angularjs中文社区](http://angularjs.cn)             
+- [angular对bootstrap的封装](http://angular-ui.github.io/bootstrap)       
+- [angularjs + nodejs](https://cnodejs.org/topic/51404e0f069911196d2e3923)       
+- [吕大豹 Angularjs](http://www.cnblogs.com/lvdabao/tag/AngularJs)       
+- [AngularJS 最佳实践](http://www.infoq.com/cn/news/2013/02/angular-web-app)       
+- [Angular的一些扩展指令](http://www.lovelucy.info/angularjs-best-practices.html)          
+- [一些扩展Angular UI组件](https://github.com/angular-ui)       
+- [Ember和AngularJS的性能测试](http://voidcanvas.com/emberjs-vs-angularjs-performance-testing)       
+- [带你走近AngularJS - 基本功能介绍](http://www.cnblogs.com/powertoolsteam/p/angularjs-introdection.html)       
+- [Angularjs开发指南](http://angular.duapp.com/docs/guide)       
+- [Angularjs学习](http://www.cnblogs.com/amosli/p/3710648.html)       
+- [不要带着jQuery的思维去学习AngularJS](http://www.rainweb.cn/article/angularjs-jquery.html)       
+- [angularjs 学习笔记](http://wangjiatao.diandian.com/?tag=angularjs)       
+- [angularjs 开发指南](http://www.angularjs.cn/T008)       
+- [angularjs 英文资料](https://github.com/jmcunningham/AngularJS-Learning)       
+- [angular bootstrap](http://angular-ui.github.io/bootstrap)       
+- [angular jq mobile](https://github.com/opitzconsulting/jquery-mobile-angular-adapter)       
+- [angular ui](http://mgcrea.github.io/angular-strap)       
+- [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)           
+- [AngularJS在线教程](http://each.sinaapp.com/angular)       
+- [angular学习笔记](http://www.zouyesheng.com/angular.html)       
+
+## 进阶篇
+
+- [Angular数据绑定原理](https://github.com/Pasvaz/bindonce)   
+- [Angularjs源码学习](http://www.cnblogs.com/xuwenmin888/p/3739096.html)       
+- [Angularjs源码学习](http://www.ifeenan.com/?c=AngularJS)
+- [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/)   
