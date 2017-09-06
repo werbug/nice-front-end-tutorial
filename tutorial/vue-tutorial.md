@@ -1,5 +1,6 @@
 ## 基础篇
-- [**Vue 官方文档**]( https://vuefe.cn/)         
+- [**Vue 官方文档**]( https://vuefe.cn/)      
+- [Vue.js 2.0 快速上手精华梳理](https://juejin.im/post/59aa1248518825392656a86a)
 
 ## 进阶篇
 
