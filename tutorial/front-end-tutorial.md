@@ -139,6 +139,12 @@
 
 源地址： https://github.com/EbookFoundation/free-programming-books
 
+## [《前端回忆录》](https://github.com/Wscats/Good-text-Share)
+
+作者： Oaoafly Wscats https://github.com/Wscats
+
+源地址：https://github.com/Wscats/Good-text-Share
+
 ## [前端开发书签](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/14-frontend-dev-bookmarks-master)
 
 作者：张正雄 https://github.com/zzxadi
