@@ -31,8 +31,7 @@
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 
-
-<div align="center">
-<img style="width:256px" src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="静晴轩"><p>微信公众号-静晴轩</p>
+<div align="center" style="width:200px;height:200px">
+<img src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="静晴轩"><p>微信公众号-静晴轩</p>
 </div>
 
