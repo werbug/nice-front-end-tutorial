@@ -17,3 +17,4 @@
 ## 进阶篇
 
 - [使用git和github进行协同开发流程](http://livoras.com/post/28)    
+- [如何使用 Github](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)

@@ -9,7 +9,7 @@
 
 ## 进阶篇
 
-- [**如何更好地运用 Chrome (Google)** ]( http://jeffjade.com/2017/05/01/122-how-to-better-use-google_chrome/)      
+- [**如何更好地运用 Chrome (Google)** ](https://jeffjade.com/2017/05/01/122-how-to-better-use-google_chrome/)      
 - [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)      
 - [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)      
 - [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)      
@@ -22,6 +22,10 @@
 - [sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)      
 - [如何更专业的使用Chrome开发者工具-w3cplus](http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html)        
 - [奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)
+
+## 扩展篇
+- [Awesome Chrome 插件集锦](https://www.jeffjade.com/2017/01/23/118-chrome_awesome_plug-in/)
+- [Vimium~让您的Chrome起飞](http://www.jeffjade.com/2015/10/19/2015-10-18-chrome-vimium/)
 
 ## 调试篇
 
