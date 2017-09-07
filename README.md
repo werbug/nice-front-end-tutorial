@@ -24,13 +24,15 @@
 
 ## 相关链接
 
-<img align="right" style="width:200px" src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="微信公众号-静晴轩">
-
 - [个人博客](https://jeffjade.com/Links)
 - [简书主页](http://www.jianshu.com/u/9aae3d8f4c3d)
 - [微博](http://weibo.com/jeffjade)
 - [知乎](https://www.zhihu.com/people/yang-qiong-pu/)
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
-- [微信公众号-静晴轩](https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg)
+
+
+<div align="center">
+<img style="width:256px" src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="静晴轩"><p>微信公众号-静晴轩</p>
+</div>
 
