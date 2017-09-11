@@ -8,4 +8,5 @@
 
 ## 进阶篇
 
+- [八段代码彻底掌握 Promise](https://juejin.im/post/597724c26fb9a06bb75260e8)
 - [Understanding ECMAScript 6 - Nicholas C. Zakas](https://leanpub.com/understandinges6/read)

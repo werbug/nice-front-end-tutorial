@@ -10,6 +10,7 @@
 - [vue2.0源码分析之理解响应式架构](https://segmentfault.com/a/1190000007334535)
 - [『翻译』深入理解Vue.js响应式原理](https://juejin.im/post/59a7b01f6fb9a0249975d39f)
 - [Vue 源码解析：深入响应式原理](https://juejin.im/entry/5834992667f356006c395b31)
+- [Vue中你不知道但却很实用的黑科技](https://juejin.im/post/5843dcad128fe100577876e1)
 
 ## 资源篇           
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)      
