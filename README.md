@@ -24,12 +24,13 @@
 
 ## 相关链接
 
-- [晚晴幽草轩](https://jeffjade.com/Links)
-- [微博](http://weibo.com/jeffjade)
+- [个人博客](https://jeffjade.com/Links)
+- [新浪微博](http://weibo.com/jeffjade)
+- [简书主页](http://www.jianshu.com/u/9aae3d8f4c3d)
+- [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 
 <div align="center">
-<img style="width:300px" src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="静晴轩">
-<p>微信公众号-静晴轩</p>
+<img style="width:300px" src="https://raw.githubusercontent.com/nicejade/nice-front-end-tutorial/master/assets/images/静晴轩.jpg" alt="静晴轩"><p>微信公众号-静晴轩</p>
 </div>
