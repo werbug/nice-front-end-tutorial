@@ -75,3 +75,6 @@
 ### Kindle
 
 - [Kindle 电子书生成工具](http://www.barretlee.com/blog/2016/05/20/kindle-book-maker/)
+
+### Email Templates
+- [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
