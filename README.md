@@ -24,6 +24,7 @@
 - [**Mongodb**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
 - [**UI**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
 - [**Markdown**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)
+- [**Interesting**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
 
 ## 相关链接
 
