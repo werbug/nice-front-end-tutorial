@@ -18,6 +18,7 @@
 - [**Css3**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
 - [**Optimization**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
 - [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
+- [**WebAssembly**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
 - [**Webpack**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
 - [**Gulp**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
 - [**Git**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)

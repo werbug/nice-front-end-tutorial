@@ -56,6 +56,8 @@
 - [Jenkins教程(易百)](http://www.yiibai.com/jenkins/)
 - [「Jenkins+Git+Maven+Shell+Tomcat持续集成」经典教程](https://segmentfault.com/a/1190000002895521)
 
+### Charles
+- [Charles 从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
 
 ### Fiddler
 
