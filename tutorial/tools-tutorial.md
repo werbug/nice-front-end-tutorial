@@ -1,6 +1,7 @@
 ### 综合
 - [工具武装的前端开发工程师](https://juejin.im/post/57dc98532e958a00545eace9)
 - [GitHub上整理的一些工具，求补充](https://segmentfault.com/q/1010000002404545)
+- [67 个拯救前端开发者的工具、库和资源](http://www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html?t=new) | [原文链接](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
 - [那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/#)
 
 ### Sublime
