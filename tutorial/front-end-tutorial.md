@@ -189,6 +189,12 @@
 
 阅读地址：http://front-end-standards.com/
 
+## [微信个人号/公众号相关项目整理](https://github.com/fritx/awesome-wechat)
+
+作者：https://github.com/fritx
+
+源地址：https://github.com/fritx/awesome-wechat
+
 <br>
 
 # 前端求职面试

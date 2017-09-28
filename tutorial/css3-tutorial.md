@@ -6,6 +6,7 @@
 
 - [【CSS】 常见 CSS 布局](http://cherryblog.site/common-CSS-layout.html#more)
 - [CSS实现水平|垂直居中漫谈](https://jeffjade.com/2015/11/14/2015-11-14-css-achieve-horizontal_vertical_center/)
+- [一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
 - [CSS征途之Background点滴](https://jeffjade.com/2015/06/29/2015-06-29-css-background/)
 
 ## 规范篇
@@ -16,6 +17,6 @@
 ## 周边篇  
 - [animate.css](https://daneden.github.io/animate.css)    
 - [bouncejs 触摸库](http://bouncejs.com)  
-- [browserhacks](http://browserhacks.com) 
+- [browserhacks](http://browserhacks.com)
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
 - [志爷css小工具集合](https://linxz.github.io/tianyizone)  
