@@ -1,5 +1,6 @@
 ## 基础篇
 - [web前端资源文件的部署和优化](https://juejin.im/post/59a50dc1f265da246e6e108f)
+- [浏览器渲染过程与性能优化](https://sylvanassun.github.io/2017/10/03/2017-10-03-BrowserCriticalRenderingPath/)
 
 ## 进阶篇
 
