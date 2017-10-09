@@ -16,6 +16,7 @@
 ### Mac
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [开发效率提升之工具篇](https://github.com/Louiszhai/tool)
+- [前端程序員的必備工具清單（MacOS）](https://calpa.me/2017/10/02/frontend-developer-tools-in-macos/)
 - [Mac必备软件渐集之ZSH－终极Shell](http://www.jeffjade.com/2015/07/29/2015-07-29-mac-musthave-software/)
 - [Mac 多屏幕窗口管理神器](https://juejin.im/post/58538a068d6d81006597b4d6)
 - [开发者MAC电脑里的十八般兵器](http://www.figotan.org/2016/07/12/dev-macpro-arms/)
