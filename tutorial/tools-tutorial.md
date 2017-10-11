@@ -82,3 +82,15 @@
 
 ### Email Templates
 - [Open Source Email Templates](https://www.sendwithus.com/resources/templates)
+
+---
+
+### NPM
+- [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
+- [npm 模块安装机制简介](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
+- [淘宝 NPM 镜像](https://npm.taobao.org/)
+
+#### PM2
+>Advanced, production process manager for Node.js
+- [PM2 官方网站](http://pm2.keymetrics.io/)
+- [PM2实用入门指南](http://imweb.io/topic/57c8cbb27f226f687b365636)
