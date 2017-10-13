@@ -20,7 +20,12 @@
 
 - [Vue Router](https://router.vuejs.org/)      
 - [Vuex ]( https://vuex.vuejs.org/)      
-- [Vue-Cli]( https://github.com/vuejs/vue-cli)
 - [vue-syntax-highlight ]( https://github.com/vuejs/vue-syntax-highlight)  
 - [Vue 论坛](http://forum.vuejs.org)      
 - [Vue 聊天室](https://gitter.im/vuejs/vue)
+
+## 搭建 Vue 应用
+- [Vue-Cli]( https://github.com/vuejs/vue-cli)
+- [poi](https://github.com/egoist/poi)
+- [create-vue-app](https://github.com/vue-land/create-vue-app)
+- [vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template)
