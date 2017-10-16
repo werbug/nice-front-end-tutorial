@@ -1,6 +1,7 @@
 ## 基础篇
 
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)   
+- [认识与入门 Markdown](https://sspai.com/post/25137)
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)   
 
 ## 平台篇
