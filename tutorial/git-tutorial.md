@@ -14,8 +14,12 @@
 - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3)     
 - [一篇文章，教你学会Git](http://www.jianshu.com/p/072587b47515)    
 
+## 进阶篇
+- [Git 的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+
 ## 周边篇
 
+- [学习 Git 玩转 GitHub](http://www.extlight.com/2017/09/18/%E5%AD%A6%E4%B9%A0Git%E7%8E%A9%E8%BD%ACGitHub/)    
 - [使用git和github进行协同开发流程](http://livoras.com/post/28)    
 - [如何使用 Github](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)
