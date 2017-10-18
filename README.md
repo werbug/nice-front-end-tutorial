@@ -20,7 +20,6 @@
 - [**Nodejs**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
 - [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
 - [**WebAssembly**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
-- [**Mongodb**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
 - [**Nginx**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
 - [**UI**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
 - [**Git**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)

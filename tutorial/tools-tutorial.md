@@ -30,6 +30,23 @@
 #### [Vscode](https://code.visualstudio.com/)
 - [Visual Studio Code 配置指南](http://www.jianshu.com/p/64b3b9197945)
 
+### Markdown
+
+- [认识与入门 Markdown](https://sspai.com/post/25137)      
+- [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)   
+- [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
+
+---
+
+- [gitbook-国外的在线markdown可编辑成书](https://www.gitbook.com)   
+- [mdeditor-一款国内的在线markdown编辑器](https://www.zybuluo.com/mdeditor)   
+- [stackedit-国外的在线markdown编辑器，功能强大，同步云盘](https://stackedit.io)   
+- [mditor- 一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)   
+- [lepture-editor](https://github.com/lepture/editor)   
+- [markdown-editor](https://github.com/jbt/markdown-editor)   
+- [作业部落-功能强大，速度流畅，全平台同步](https://www.zybuluo.com)   
+
+
 ### Docker
 - [Docker 官方文档](https://docs.docker.com/)
 - [Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
