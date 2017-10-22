@@ -138,6 +138,9 @@
 - [echo](https://github.com/toddmotto/echo)
 >Lazy-loading images with data-* attributes (懒惰加载带有data- \*属性的图像)
 
+- [hammerJs](https://github.com/hammerjs/hammer.js/)
+>A javascript library for multi-touch gestures :// You can touch this http://hammerjs.github.io (一个用于多点触控手势的javascript库 [Vue-touch](https://github.com/vuejs/vue-touch))。
+
 - [mjml](https://github.com/mjmlio/mjml)
 >MJML: the only framework that makes responsive-email easy (MJML：使电子邮件变得简单的唯一框架)
 
@@ -197,3 +200,6 @@
 
 - [fingerprintjs2](https://github.com/Valve/fingerprintjs2)
 >Modern & flexible browser fingerprinting library http://valve.github.io/fingerprintjs2/ (现代灵活的浏览器指纹库)
+
+- [napa.js](https://github.com/Microsoft/napajs)
+>Napa.js: a multi-threaded JavaScript runtime (Napa.js：一个多线程JavaScript运行时)

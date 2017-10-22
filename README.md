@@ -25,6 +25,7 @@
 - [**UI**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
 - [**Git**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
 - [**Optimization**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
+- [**Web Security**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
 - [**Testing**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 - [**Interesting**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
 
