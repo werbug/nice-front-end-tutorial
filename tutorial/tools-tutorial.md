@@ -183,6 +183,9 @@
 - [shelljs](https://github.com/shelljs/shelljs)
 >🐚 Portable Unix shell commands for Node.js http://shelljs.org (Node.js的Portable Unix shell命令)
 
+- [immutable-js](https://github.com/facebook/immutable-js/)
+>Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/ (用于Javascript的不变的持久数据集合可以提高效率和简单性。)
+
 - [nuxt](https://github.com/nuxt/nuxt.js)
 >Versatile Vue.js Framework https://nuxtjs.org (多功能Vue.js框架https://nuxtjs.org)
 
