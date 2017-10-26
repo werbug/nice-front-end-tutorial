@@ -33,13 +33,13 @@
 
 ### Markdown
 
+#### 入门技巧
 - [认识与入门 Markdown](https://sspai.com/post/25137)      
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)   
 - [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
 
----
-
-- [gitbook-国外的在线markdown可编辑成书](https://www.gitbook.com)   
+#### 资源平台
+- [gitbook-国外的在线markdown可编辑成书](https://www.gitbook.com)  
 - [mdeditor-一款国内的在线markdown编辑器](https://www.zybuluo.com/mdeditor)   
 - [stackedit-国外的在线markdown编辑器，功能强大，同步云盘](https://stackedit.io)   
 - [mditor- 一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)   

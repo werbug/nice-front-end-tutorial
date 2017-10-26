@@ -34,6 +34,7 @@
 - [个人博客](https://jeffjade.com/Links)
 - [新浪微博](http://weibo.com/jeffjade)
 - [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
+- [简书主页](http://www.jianshu.com/u/9aae3d8f4c3d)
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 

@@ -16,6 +16,7 @@
 
 ## 进阶篇
 - [Git 的奇技淫巧🙈](https://github.com/521xueweihan/git-tips)
+- [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
 ## 周边篇
 
