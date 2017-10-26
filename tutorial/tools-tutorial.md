@@ -15,6 +15,7 @@
 ### [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
 
 ### Windows
+- [Windows下效率必备软件](https://jeffjade.com/2015/10/19/2015-10-18-Efficacious-win-software/)
 - [Win下最爱效率神器:AutoHotKey](http://www.jeffjade.com/2016/03/11/2016-03-11-autohotkey/)
 - [Win下必备神器之Cmder](http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/)
 - [Listary Everything Wox Launch](http://www.jeffjade.com/2016/05/22/108-Listary-Everything-Wox-Launch/)
