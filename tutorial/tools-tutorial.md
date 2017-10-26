@@ -31,6 +31,23 @@
 #### [Vscode](https://code.visualstudio.com/)
 - [Visual Studio Code 配置指南](http://www.jianshu.com/p/64b3b9197945)
 
+### Markdown
+
+- [认识与入门 Markdown](https://sspai.com/post/25137)      
+- [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)   
+- [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
+
+---
+
+- [gitbook-国外的在线markdown可编辑成书](https://www.gitbook.com)   
+- [mdeditor-一款国内的在线markdown编辑器](https://www.zybuluo.com/mdeditor)   
+- [stackedit-国外的在线markdown编辑器，功能强大，同步云盘](https://stackedit.io)   
+- [mditor- 一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)   
+- [lepture-editor](https://github.com/lepture/editor)   
+- [markdown-editor](https://github.com/jbt/markdown-editor)   
+- [作业部落-功能强大，速度流畅，全平台同步](https://www.zybuluo.com)   
+
+
 ### Docker
 - [Docker 官方文档](https://docs.docker.com/)
 - [Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
@@ -122,6 +139,9 @@
 - [echo](https://github.com/toddmotto/echo)
 >Lazy-loading images with data-* attributes (懒惰加载带有data- \*属性的图像)
 
+- [hammerJs](https://github.com/hammerjs/hammer.js/)
+>A javascript library for multi-touch gestures :// You can touch this http://hammerjs.github.io (一个用于多点触控手势的javascript库 [Vue-touch](https://github.com/vuejs/vue-touch))。
+
 - [mjml](https://github.com/mjmlio/mjml)
 >MJML: the only framework that makes responsive-email easy (MJML：使电子邮件变得简单的唯一框架)
 
@@ -164,6 +184,9 @@
 - [shelljs](https://github.com/shelljs/shelljs)
 >🐚 Portable Unix shell commands for Node.js http://shelljs.org (Node.js的Portable Unix shell命令)
 
+- [immutable-js](https://github.com/facebook/immutable-js/)
+>Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/ (用于Javascript的不变的持久数据集合可以提高效率和简单性。)
+
 - [nuxt](https://github.com/nuxt/nuxt.js)
 >Versatile Vue.js Framework https://nuxtjs.org (多功能Vue.js框架https://nuxtjs.org)
 
@@ -181,3 +204,6 @@
 
 - [fingerprintjs2](https://github.com/Valve/fingerprintjs2)
 >Modern & flexible browser fingerprinting library http://valve.github.io/fingerprintjs2/ (现代灵活的浏览器指纹库)
+
+- [napa.js](https://github.com/Microsoft/napajs)
+>Napa.js: a multi-threaded JavaScript runtime (Napa.js：一个多线程JavaScript运行时)
