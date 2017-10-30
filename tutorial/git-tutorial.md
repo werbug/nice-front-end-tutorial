@@ -24,3 +24,7 @@
 - [使用git和github进行协同开发流程](http://livoras.com/post/28)    
 - [如何使用 Github](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)
+
+
+## 插件库
+- [husky](https://github.com/typicode/husky): 🐶 Git hooks made easy.
