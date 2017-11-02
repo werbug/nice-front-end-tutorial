@@ -14,6 +14,9 @@
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 - [从制作世界上最快的网站中学到的十件事[译]](https://zhuanlan.zhihu.com/p/24577980)
 
+## 探究篇
+- [浏览器渲染详细过程：重绘、重排和composite只是冰山一角](https://chuckliu.me/#!/posts/58ea6af15dc1822fa9a57274)
+
 ## 缓存相关
 - [你应该知道的浏览器缓存知识](https://excaliburhan.com/post/things-you-should-know-about-browser-cache.html)
 
