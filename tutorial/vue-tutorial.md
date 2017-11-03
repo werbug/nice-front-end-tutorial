@@ -1,6 +1,7 @@
 ## 基础篇
 - [**Vue 官方文档**]( https://vuefe.cn/)      
 - [Some of the vue-tutorial](https://github.com/Wscats/vue-tutorial)
+- [从零搭建vue2+vue-router2+webpack3工程](http://www.qinshenxue.com/article/20161118151423.html)
 - [Vue.js 2.0 快速上手精华梳理](https://juejin.im/post/59aa1248518825392656a86a)
 
 ## 进阶篇
