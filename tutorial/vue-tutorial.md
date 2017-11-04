@@ -1,6 +1,7 @@
 ## 基础篇
 - [**Vue 官方文档**]( https://vuefe.cn/)      
 - [Some of the vue-tutorial](https://github.com/Wscats/vue-tutorial)
+- [从零搭建vue2+vue-router2+webpack3工程](http://www.qinshenxue.com/article/20161118151423.html)
 - [Vue.js 2.0 快速上手精华梳理](https://juejin.im/post/59aa1248518825392656a86a)
 
 ## 进阶篇
@@ -10,7 +11,8 @@
 - [vue2.0源码分析之理解响应式架构](https://segmentfault.com/a/1190000007334535)
 - [『翻译』深入理解Vue.js响应式原理](https://juejin.im/post/59a7b01f6fb9a0249975d39f)
 - [Vue 源码解析：深入响应式原理](https://juejin.im/entry/5834992667f356006c395b31)
-- [Vue中你不知道但却很实用的黑科技](https://juejin.im/post/5843dcad128fe100577876e1)
+- [Vue 中你不知道但却很实用的黑科技](https://juejin.im/post/5843dcad128fe100577876e1)
+- [Vue 源码详解之 v-for](https://chuckliu.me/#!/posts/58c650a0b5187d2fb51c04fa)
 
 ## 资源篇           
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)      

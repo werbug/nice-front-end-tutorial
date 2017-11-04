@@ -15,6 +15,7 @@
 ### [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
 
 ### Windows
+- [Windows下效率必备软件](https://jeffjade.com/2015/10/19/2015-10-18-Efficacious-win-software/)
 - [Win下最爱效率神器:AutoHotKey](http://www.jeffjade.com/2016/03/11/2016-03-11-autohotkey/)
 - [Win下必备神器之Cmder](http://www.jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/)
 - [Listary Everything Wox Launch](http://www.jeffjade.com/2016/05/22/108-Listary-Everything-Wox-Launch/)
@@ -32,13 +33,13 @@
 
 ### Markdown
 
+#### 入门技巧
 - [认识与入门 Markdown](https://sspai.com/post/25137)      
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)   
 - [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
 
----
-
-- [gitbook-国外的在线markdown可编辑成书](https://www.gitbook.com)   
+#### 资源平台
+- [gitbook-国外的在线markdown可编辑成书](https://www.gitbook.com)  
 - [mdeditor-一款国内的在线markdown编辑器](https://www.zybuluo.com/mdeditor)   
 - [stackedit-国外的在线markdown编辑器，功能强大，同步云盘](https://stackedit.io)   
 - [mditor- 一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)   
@@ -182,6 +183,9 @@
 
 - [shelljs](https://github.com/shelljs/shelljs)
 >🐚 Portable Unix shell commands for Node.js http://shelljs.org (Node.js的Portable Unix shell命令)
+
+- [immutable-js](https://github.com/facebook/immutable-js/)
+>Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/ (用于Javascript的不变的持久数据集合可以提高效率和简单性。)
 
 - [nuxt](https://github.com/nuxt/nuxt.js)
 >Versatile Vue.js Framework https://nuxtjs.org (多功能Vue.js框架https://nuxtjs.org)
