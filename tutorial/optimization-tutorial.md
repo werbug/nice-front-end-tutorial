@@ -5,6 +5,8 @@
 
 ## 进阶篇
 
+- [Front-End-Checklist | Security](https://github.com/thedaviddias/Front-End-Checklist#security)
+- [Front-End-Checklist | Seo](https://github.com/thedaviddias/Front-End-Checklist#seo)
 - [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576)
 - [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
@@ -16,5 +18,6 @@
 - [你应该知道的浏览器缓存知识](https://excaliburhan.com/post/things-you-should-know-about-browser-cache.html)
 
 ## 图片相关
+- [Front-End-Checklist | Images](https://github.com/thedaviddias/Front-End-Checklist#images)
 - [web前端优化之图片优化](https://juejin.im/post/59a7725b6fb9a02497170459)
 - [实现图片懒加载(lazyload)](https://i.jakeyu.top//2016/11/26/实现图片懒加载/)
