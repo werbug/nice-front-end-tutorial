@@ -8,8 +8,8 @@
 - [如何看待 Progressive Web Apps 的发展前景？](https://www.zhihu.com/question/46690207)   
 
 ## 进阶篇
+- [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 - [如何优雅的为 PWA 注册 Service Worker](https://zhuanlan.zhihu.com/p/28161855)
-
 
 ## 周边篇
 - [Lavas(基于 Vue 的 PWA 解决方案 By 百度)](https://lavas.baidu.com/)
