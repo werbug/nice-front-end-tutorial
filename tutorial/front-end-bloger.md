@@ -1,0 +1,13 @@
+## 团队博客
+- [腾讯 ISUX](http://isux.tencent.com)
+- [腾讯全端 AlloyTeam](http://www.alloyteam.com/webdevelop/)
+- [奇舞周刊](http://old.75team.com/weekly/)
+- [阿里巴巴-U一点](http://www.aliued.cn)
+- [淘宝前端团队（FED](http://taobaofed.org)
+- [码农周刊](http://weekly.manong.io)
+- [凹凸实验室(京东)](https://aotu.io/)
+- [WEB前端开发](http://www.css88.com)
+- [A JS tip per day! ](http://www.jstips.co)
+- [百度WEB前端研发部](http://fex.baidu.com)
+- [搜车大无线团队博客](http://f2e.souche.com/blog/)
+- [携程设计委员会](http://ued.ctrip.com/blog/)
