@@ -30,4 +30,9 @@
 - [流浪小猫的博客](http://blog.xcatliu.com/)
 - [颜海镜的博客](http://yanhaijing.com/)
 - [晚晴幽草轩](https://jeffjade.com/)
+- [Chuck Liu的博客](https://chuckliu.me/)
+- [Calpa's Blog](https://calpa.me/)
+- [轩枫阁 – 前端开发](https://www.xuanfengge.com/)
 - [Cherry's Blog](http://cherryblog.site/)
+
+>**微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）。
