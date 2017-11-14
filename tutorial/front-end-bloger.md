@@ -21,7 +21,6 @@
 ## 个人博客
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)
-- [玉伯也叫射雕](https://github.com/lifesinger/blog/issues)
 - [勾三股四/赵锦江](http://jiongks.name/)
 - [CSS森林(CSS Forest)](http://blog.cssforest.org/)
 - [小胡子哥(李靖)](http://www.barretlee.com/entry/)
