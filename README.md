@@ -28,10 +28,12 @@
 - [**Web Security**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
 - [**Testing**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 - [**Interesting**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
+- [**Useful Bloger**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-bloger.md)
 
 ## 相关链接
 
 - [个人博客](https://jeffjade.com/Links)
+- [倾城之链](https://nicelinks.site)
 - [新浪微博](http://weibo.com/jeffjade)
 - [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
 - [简书主页](http://www.jianshu.com/u/9aae3d8f4c3d)
