@@ -9,7 +9,6 @@
 - [码农周刊](http://weekly.manong.io)
 - [凹凸实验室(京东)](https://aotu.io/)
 - [WEB前端开发](http://www.css88.com)
-- [A JS tip per day! ](http://www.jstips.co)
 - [百度WEB前端研发部](http://fex.baidu.com)
 - [搜车大无线团队博客](http://f2e.souche.com/blog/)
 - [饿了么大前端](https://zhuanlan.zhihu.com/ElemeFE)
@@ -18,10 +17,16 @@
 - [前端观察(腾讯)](https://www.qianduan.net/)
 - [前端外刊评论](https://qianduan.group/)
 
+---
+
+- [A JS tip per day! ](http://www.jstips.co)
+- [reloading – Medium](https://medium.com/reloading)
+
 ## 个人博客
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)
 - [勾三股四/赵锦江](http://jiongks.name/)
+- [Hux Blog(黄玄)](https://huangxuan.me/)
 - [CSS森林(CSS Forest)](http://blog.cssforest.org/)
 - [小胡子哥(李靖)](http://www.barretlee.com/entry/)
 - [JerryQu(屈光宇)](https://imququ.com/)
@@ -33,5 +38,9 @@
 - [Calpa's Blog](https://calpa.me/)
 - [轩枫阁 – 前端开发](https://www.xuanfengge.com/)
 - [Cherry's Blog](http://cherryblog.site/)
+
+---
+
+- [Pragmatists blog](https://blog.pragmatists.com/)
 
 >**微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）。
