@@ -23,7 +23,8 @@
 ### 国外
 
 - [A JS tip per day! ](http://www.jstips.co)
-- [reloading – Medium](https://medium.com/reloading)
+- [Reloading – Medium](https://medium.com/reloading)
+- [Cybersecurity – Medium](https://medium.com/topic/cybersecurity)
 - [Hacker Noon](https://hackernoon.com/)
 - [Frontend Focus](https://frontendfoc.us/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
@@ -55,8 +56,10 @@
 
 ### 国外
 
-- [bitsofcode](https://bitsofco.de/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Bitsofcode](https://bitsofco.de/)
 - [Blog - Advanced Web Machinery](https://advancedweb.hu/)
 - [Pragmatists blog](https://blog.pragmatists.com/)
+- [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
 
 >**微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）。
