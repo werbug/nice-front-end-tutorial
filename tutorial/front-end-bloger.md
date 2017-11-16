@@ -1,4 +1,7 @@
-## 团队博客
+## 团队博客 && 周报订阅
+
+### 国内
+
 - [腾讯 ISUX](http://isux.tencent.com)
 - [腾讯全端 AlloyTeam](http://www.alloyteam.com/webdevelop/)
 - [奇舞周刊](http://old.75team.com/weekly/)
@@ -17,13 +20,22 @@
 - [前端观察(腾讯)](https://www.qianduan.net/)
 - [前端外刊评论](https://qianduan.group/)
 
----
+### 国外
 
 - [A JS tip per day! ](http://www.jstips.co)
 - [reloading – Medium](https://medium.com/reloading)
 - [Hacker Noon](https://hackernoon.com/)
+- [Frontend Focus](https://frontendfoc.us/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
+- [Css Weekly](http://css-weekly.com/)
+- [Web Design Weekly](https://web-design-weekly.com/)
+- [Web Tools Weekly](https://webtoolsweekly.com/)
+- [Learn CSS Animation](https://cssanimation.rocks/)
+- [Hack Design](https://hackdesign.org/)
 
 ## 个人博客
+
+### 国内
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)
 - [勾三股四/赵锦江](http://jiongks.name/)
@@ -34,14 +46,16 @@
 - [十年踪迹的博客](https://www.h5jun.com/)
 - [流浪小猫的博客](http://blog.xcatliu.com/)
 - [颜海镜的博客](http://yanhaijing.com/)
+- [志文工作室](https://lzw.me/)
 - [晚晴幽草轩](https://jeffjade.com/)
 - [Chuck Liu的博客](https://chuckliu.me/)
 - [Calpa's Blog](https://calpa.me/)
 - [轩枫阁 – 前端开发](https://www.xuanfengge.com/)
 - [Cherry's Blog](http://cherryblog.site/)
 
----
+### 国外
 
+- [bitsofcode](https://bitsofco.de/)
 - [Blog - Advanced Web Machinery](https://advancedweb.hu/)
 - [Pragmatists blog](https://blog.pragmatists.com/)
 
