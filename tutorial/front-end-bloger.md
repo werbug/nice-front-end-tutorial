@@ -23,6 +23,7 @@
 ### 国外
 
 - [A JS tip per day! ](http://www.jstips.co)
+- [CodePen - Front End Developer Playground](https://codepen.io/)
 - [Reloading – Medium](https://medium.com/reloading)
 - [Cybersecurity – Medium](https://medium.com/topic/cybersecurity)
 - [Hacker Noon](https://hackernoon.com/)
