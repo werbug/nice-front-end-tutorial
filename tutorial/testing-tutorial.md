@@ -1,3 +1,7 @@
+## 回归测试(Regression Testing)
+
+>A curated list of resources around the topic: visual regression testing: https://github.com/mojoaxel/awesome-regression-testing
+
 ## 负载测试
 
 #### [Locust](https://github.com/locustio/locust)
