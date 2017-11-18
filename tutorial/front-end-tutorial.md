@@ -8,6 +8,12 @@
 
 源地址：https://github.com/nicejade/nice-front-end-tutorial
 
+## [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+
+作者：https://github.com/FrontendMasters
+
+源地址：https://github.com/FrontendMasters/front-end-handbook-2017
+
 ## [结合个人经历总结的前端入门方法](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/01-FE-learning-master)
 
 作者：qiu https://github.com/qiu-deqing
