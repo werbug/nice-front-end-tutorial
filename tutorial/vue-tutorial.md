@@ -21,7 +21,7 @@
 ## 周边篇
 
 - [Vue Router](https://router.vuejs.org/)      
-- [Vuex ]( https://vuex.vuejs.org/)      
+- [Vuex]( https://vuex.vuejs.org/)      
 - [vue-syntax-highlight ]( https://github.com/vuejs/vue-syntax-highlight)  
 - [Vue 论坛](http://forum.vuejs.org)      
 - [Vue 聊天室](https://gitter.im/vuejs/vue)
