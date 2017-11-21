@@ -19,6 +19,7 @@
 - [携程设计委员会](http://ued.ctrip.com/blog/)
 - [前端观察(腾讯)](https://www.qianduan.net/)
 - [前端外刊评论](https://qianduan.group/)
+- [Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
 
 ### 国外
 
@@ -40,6 +41,7 @@
 ### 国内
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)
+- [翁天信的博客](https://blog.dandyweng.com/)
 - [勾三股四/赵锦江](http://jiongks.name/)
 - [Hux Blog(黄玄)](https://huangxuan.me/)
 - [CSS森林(CSS Forest)](http://blog.cssforest.org/)
@@ -50,10 +52,11 @@
 - [颜海镜的博客](http://yanhaijing.com/)
 - [志文工作室](https://lzw.me/)
 - [晚晴幽草轩](https://jeffjade.com/)
-- [Chuck Liu的博客](https://chuckliu.me/)
+- [Chuck Liu 的博客](https://chuckliu.me/)
 - [Calpa's Blog](https://calpa.me/)
 - [轩枫阁 – 前端开发](https://www.xuanfengge.com/)
-- [Cherry's Blog](http://cherryblog.site/)
+- [HacPai - Vanessa(💃)](http://vanessa.b3log.org/)
+- [Cherry's Blog(💃)](http://cherryblog.site/)
 
 ### 国外
 
