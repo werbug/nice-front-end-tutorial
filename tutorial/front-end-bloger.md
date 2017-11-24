@@ -34,6 +34,7 @@
 - [Web Tools Weekly](https://webtoolsweekly.com/)
 - [Learn CSS Animation](https://cssanimation.rocks/)
 - [Hack Design](https://hackdesign.org/)
+- [Codeburst](https://codeburst.io/)
 
 ## 个人博客
 
@@ -68,5 +69,6 @@
 - [DesignM.ag](https://designm.ag/)
 - [Just™ Creative Blog](http://justcreative.com/blog/)
 - [Line25 Web Design Blog](https://line25.com/)
+- [Find and Fix Node.js Security Flaws](https://blog.liftsecurity.io/)
 
 >**微注：** 显然，如今优质`个人博客`很多；但此间对其的收录，将秉承以下几点原则：内容以原创为主，多涉及前端范畴；并具有一定参考价值，且三月之内仍有更新；有自己个人品牌，而不依附于其他平台；网站响应迅速，板式布局干净舒爽；若有广告，当不影响阅读体验（另外，当有一定影响力，或者有一些积淀，如原创内容篇数大于 30+）。
