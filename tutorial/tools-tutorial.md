@@ -47,6 +47,10 @@
 - [markdown-editor](https://github.com/jbt/markdown-editor)   
 - [作业部落-功能强大，速度流畅，全平台同步](https://www.zybuluo.com)   
 
+### 相关库
+- [clean-mark](https://github.com/croqaz/clean-mark)
+- [mavonEditor](https://github.com/hinesboy/mavonEditor)
+- [vue-simplemde](https://github.com/F-loat/vue-simplemde)
 
 ### Docker
 - [Docker 官方文档](https://docs.docker.com/)
