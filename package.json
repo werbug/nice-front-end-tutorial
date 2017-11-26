@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "precommit": "lint-staged",
+    "prettier-watch": "onchange '**/*.md' -- prettier --write {{changed}}"
+  },
+  "lint-staged": {
+    "*.{js,json,css,md}": ["prettier --write", "git add"]
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^5.0.0",
+    "onchange": "^3.2.1",
+    "prettier": "1.8.2"
+  }
+}
