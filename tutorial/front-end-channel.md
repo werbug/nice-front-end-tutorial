@@ -1,4 +1,4 @@
-## 团队博客 && 周报订阅
+## 团队维护 || 聚合
 
 ### 国内
 
@@ -20,6 +20,10 @@
 * [前端观察 ( 腾讯 )](https://www.qianduan.net/)
 * [前端外刊评论](https://qianduan.group/)
 * [Awesomes-Web 前端开发资源库](https://www.awesomes.cn/)
+* [掘进|发现|前端](https://juejin.im/explore/frontend)
+* [Segmentfault|头条|前端](https://segmentfault.com/news/frontend)
+* [开发者头条|前端](https://toutiao.io/c/fe)
+* [伯乐在线| Web 前端](http://web.jobbole.com/)
 
 ### 国外
 

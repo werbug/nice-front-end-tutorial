@@ -28,7 +28,7 @@
 - [**Web Security**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
 - [**Testing**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 - [**Interesting**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
-- [**Useful Bloger**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-bloger.md)
+- [**Useful Channel**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
 
 ## 相关链接
 
