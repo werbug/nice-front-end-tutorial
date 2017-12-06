@@ -20,6 +20,7 @@
 ## 探究篇
 
 * [浏览器渲染详细过程：重绘、重排和 composite 只是冰山一角](https://chuckliu.me/#!/posts/58ea6af15dc1822fa9a57274)
+* [JavaScript Performance Optimization Tips: An Overview](https://www.sitepoint.com/javascript-performance-optimization-tips-an-overview/)
 
 ## 缓存相关
 

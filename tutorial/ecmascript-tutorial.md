@@ -16,4 +16,5 @@
 
 ## 相关篇
 
+* [Dynamic import()](https://developers.google.com/web/updates/2017/11/dynamic-import)
 * [Why we have banned default exports in Javascript and you should do the same](https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad)
