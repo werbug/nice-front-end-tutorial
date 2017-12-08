@@ -18,7 +18,6 @@
 
 * [Ant Design](https://ant.design/)
 * [React material UI](http://material-ui.com/#)
-* [React TouchstoneJS UI](http://touchstonejs.io)
 * [React amazeui UI](http://amazeui.org/react)
 
 ## 进阶篇
